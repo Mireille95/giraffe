@@ -4,6 +4,10 @@
   .author {
     color: red;
   }
+  h1 ,h2 ,h3 {
+      color:blue;
+      font-size:40px;
+  }
   p.author {
     font-size: 12px;
   }
